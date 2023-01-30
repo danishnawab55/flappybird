@@ -1,2 +1,4 @@
 # flappybird
-It is a flappy bird game, commited on 30/01/2023.
+# flappyBird
+A simple js clone of flappy bird
+It is Live [here](https://github.com/danishnawab55/flappybird.git)
